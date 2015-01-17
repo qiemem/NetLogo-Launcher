@@ -13,21 +13,21 @@ Installation
 
 ### 1. Make sure you can run downloaded apps
 
-Go to System Preferences and select Security & Privacy. Under "Allow apps downloaded from:" is set to "Anywhere".
+Go to **System Preferences** and select **Security & Privacy**. Under **Allow apps downloaded from:** is set to **Anywhere**.
 
-### 2. Move NetLogo Launcher.app to the NetLogo installation directory
+### 2. Move **NetLogo Launcher.app** to the NetLogo installation directory
 
-This is the directory that contains NetLogo 5.1.0.app, NetLogo 3D 5.1.0.app, and so forth (the version numbers may be different). NetLogo Launcher should work with most NetLogo versions as long as the app name looks like "NetLogo x.x.x.app".
+This is the directory that contains **NetLogo 5.1.0.app**, **NetLogo 3D 5.1.0.app**, and so forth (the version numbers may be different). NetLogo Launcher should work with most NetLogo versions as long as the app name looks like **NetLogo #.#.#.app**.
 
 ### 3. Add NetLogo Launcher to the dock
 
-In finder, go to your NetLogo installation directory. Drag NetLogo Launcher.app to the dock. Now you can click on the NetLogo Launcher icon to open a new instance of NetLogo, or drag and drop nlogo files onto it to open them in new instaces of NetLogo.
+In finder, go to your NetLogo installation directory. Drag **NetLogo Launcher.app** to the dock. Now you can click on the NetLogo Launcher icon to open a new instance of NetLogo, or drag and drop nlogo files onto it to open them in new instaces of NetLogo.
 
 ### 4. (Optional, but recommended) Launch nlogo files with NetLogo Launcher
 
-This makes it so that when you double click on an nlogo file, it doesn't replace the model you have open!
+This makes it so that when you double click on an nlogo file, it won't replace the model you have open!
 
-Go to any nlogo file. Ctrl-click (or right click) on the file and select Get Info. Under Open With, go to Other... Find NetLogo Launcher.app, select it, check Always Open With, and hit Add. Finally, back in Get Info, click Change All...
+Go to any nlogo file. Ctrl-click (or right click) on the file and select **Get Info**. Under **Open With**, go to **Other...**. Find **NetLogo Launcher.app**, select it, check **Always Open With**, and hit **Add**. Finally, back in **Get Info**, click **Change All...**.
 
 After that, double clicking on any nlogo file should open it in a new instance of NetLogo!
 
