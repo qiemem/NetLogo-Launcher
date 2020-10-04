@@ -32,7 +32,7 @@ Go to any nlogo file. Ctrl-click (or right click) on the file and select **Get I
 After that, double clicking on any nlogo file should open it in a new instance of NetLogo!
 
 
-Build
+Build your NetLogo Launcher
 ---
 
 If you want to build NetLogo Launcher yourself, you need the command line version of [Platypus](http://www.sveinbjorn.org/platypus). I recommend getting this from [Homebrew](http://brew.sh/). With Homebrew, just run
